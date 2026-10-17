@@ -1,0 +1,13 @@
+{
+  "name": "woc7015-task3",
+  "version": "1.0.0",
+  "description": "Playwright Task3 Lab - SauceDemo Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
